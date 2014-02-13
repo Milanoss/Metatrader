@@ -31,6 +31,8 @@ MQL4/Indicators/Bands.mq4
 MQL4/Indicators/Bears.mq4
 MQL4/Indicators/Bulls.mq4
 MQL4/Indicators/CCI.mq4
+MQL4/Indicators/Custom Moving Averages.mq4
+MQL4/Indicators/Heiken Ashi.mq4
 MQL4/Indicators/iExposure.mq4
 MQL4/Indicators/Ichimoku.mq4
 MQL4/Indicators/MACD.mq4
