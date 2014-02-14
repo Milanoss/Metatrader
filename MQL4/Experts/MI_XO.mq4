@@ -8,8 +8,8 @@
 #property version   "1.00"
 #property strict
 
-//#define INDICATOR_NAME "SimpleBasket/I_XO_A_H_MI"
-#define INDICATOR_NAME "I_XO_A_H"
+#define INDICATOR_NAME "SimpleBasket/I_XO_A_H_MI"
+//#define INDICATOR_NAME "I_XO_A_H"
 
 input int boxSize=260;
 int ticket;
